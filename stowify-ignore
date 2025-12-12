@@ -1,0 +1,4 @@
+stowify.py
+.stow-local-ignore
+.git
+.DS_Store
