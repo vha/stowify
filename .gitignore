@@ -1,0 +1,30 @@
+# dotfiles output
+dotfiles
+
+# IDE folders
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# OS
+.DS_Store
+
+# Local ignore for stowify
+stowify-ignore
